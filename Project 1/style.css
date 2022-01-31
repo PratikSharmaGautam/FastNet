@@ -1,0 +1,339 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background: whitesmoke;
+    height: 80px;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    
+}
+.Entertainment{
+    height: 500px;
+    display: flex;
+}
+.b1{
+    height: 300px;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.b2{
+    height: 300px;
+    width: 500px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.Entertainment button{
+    background: orange;
+    height: 30px;
+    width: 100px;
+}
+.Entertainment button:hover{
+    background: darkorange;
+    height: 32px;
+    width: 105px;
+}
+.Entertainment a{
+    color: rgb(44, 35, 35);
+}
+.Entertainment a:hover{
+    color: black;
+    
+}
+
+   
+.subtitle{
+    margin-left: 70px;
+    word-spacing: 30px;
+
+    display: flex;
+}
+.advertisement{
+    font-size: 30px;
+    color: green;
+}
+.subtitle a{
+    text-decoration: none;
+}
+.color{
+    color: blue;
+}
+.sub-subtitle a{
+    color: blue;
+}
+.sub-subtitle a{
+                margin-left: 300px;
+}
+.head{
+    margin-top: 0%;
+    height: 50px;
+    background: rgb(119, 119, 235);
+    color: white;
+    word-spacing: 10px;
+    padding-left: 30px;
+}
+.head a{
+    text-decoration: none;
+    opacity: 100%;
+}
+.head a{
+    color: white;
+}
+.img{
+    height: 100px;
+    background-image: url(images/Fastnet.png);
+    width: 82%;
+    border-bottom: 2px solid red;
+    margin-top: 10px;
+   
+}
+
+.box{
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+ 
+}
+
+
+.box1{
+    height: 100px;
+    width: 200px;
+    background: greenyellow;
+    margin-left: 12%;
+    text-decoration-color: none;
+
+}
+
+.box2{
+    height: 100px;
+    width: 200px;
+    background:greenyellow;
+    margin-left: 3%;
+    text-decoration: none;
+}
+.box3{
+    height: 100px;
+    width: 200px;
+    background: greenyellow;
+    margin-left: 3%;
+    text-decoration: none;
+
+}
+
+.box4{
+    height: 100px;
+    width: 200px;
+    background: greenyellow;
+    margin-left: 3%;
+    margin-right: 2%;
+    text-decoration: none;
+
+}
+
+
+.last{
+    margin-top: 20px;
+    display: flex;
+    height: 500px;
+    width: 95%;
+    background: #2296c4;
+    display: flex;
+   
+}
+
+a{
+    text-decoration: none;
+}
+.sportimg{
+    width: 95%;
+    height: 500px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.logo-1{
+    margin-top: 10px;
+    height: 40px;
+    width: 50px;
+}
+
+.more{
+    height: 250px;
+    background: skyblue;
+    margin-top: 40px;
+    padding-left: 30px;
+    display: flex;
+}
+.more button{
+    background: orange;
+}
+.more button a{
+    text-decoration: none;
+    color: blue;
+}
+.title{
+    height: 25px;
+}
+.l1{
+    margin-left: 2px;
+    margin-right: 20px;
+    font-size: 7;
+    color: blue;
+}
+.l2{
+    margin-left: 2px;
+    margin-right: 20px;
+    font-size: 7;
+    color: blue;
+} 
+
+.l3{
+    margin-left: 2px;
+    margin-right: 20px;
+    font-size: 7;
+    color: blue;
+} 
+.l4{
+    margin-left: 2px;
+    margin-right: 20px;
+    font-size: 7;
+    color: blue;
+}
+.more h3{
+    color: blue;
+}
+.l3 h3{
+    color: blue;
+}
+.subtitle{
+    background: rgb(221, 190, 190);
+    margin-left: 0;
+    margin-bottom: 1px;
+    height: 30px;
+    padding-left: 30px;
+    
+}
+.subtitle a{
+    margin-right: 20px;
+}
+.subtitle a:hover{
+    color: red;
+    font-size: 20px;
+}
+.subtitle input:hover{
+    color: red;
+    width: 500px;
+    border: 2px solid blue;
+    height: 20px;
+    border-radius: 10px;
+}
+.big{
+    height: 80vh;
+    background: rgb(160, 159, 159);
+    display: flex;
+    margin-top: 10px;
+    padding-top: 5px;
+   
+}
+.small1{
+    width: 40%;
+    height: 20vh;
+    background-image: url(images/residental.png);
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin-left: 80px;
+    text-align: center;
+    padding-top: 420px;
+    margin-right: 20px;
+}
+.small1 button{
+    background: orange;
+    height: 20px;
+    width: 100px;
+}
+
+.small2{
+    width: 40%;
+    height: 20vh;
+    background-image: url(images/cyber.png);
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    margin-left: 30px;
+    text-align: center;
+    padding-top: 420px;
+    margin-right: 20px;
+}
+.small2 button{
+    background: orange;
+    height: 20px;
+    width: 100px;
+}
+.small1 button:hover{
+    background: darkorange;
+    
+}
+.small2 button:hover{
+    background: darkorange;
+    
+}
+.digital{
+    width: auto;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 250px;
+    display: flex;
+    color: blue;
+    font-size: 25px;
+    
+}
+.online{
+    height: 150px;
+    width: 500px;
+    background-image: url(images/online.jfif);
+    margin-left: 10%;
+    padding-top: 15%;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-right: 30px;
+}
+.video{
+    height: 180px;
+    width: 300px;
+    background-image: url(images/video.jfif);
+    margin-left: 4%;
+    text-align: center;
+    background-repeat: no-repeat;
+    margin-right: 50px;
+    padding-top: 15%;
+}
+.nextbox{
+    height: 65vh;
+    background: rgb(160, 159, 159);
+    padding-top: 30px;
+    overflow: hidden;
+}
+#small3{
+    height: 120px;
+    width: 530px;
+    background-image: url(images/enterprise.PNG);
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 15%;
+    margin-left: 80px;
+    padding-top: 300px;
+    border: 2px solid black;
+}
+#small3 button{
+    background: orange;
+    height: 20px;
+    width: 100px;
+}
+#small3 button:hover{
+    background: darkorange;
+    
+}
